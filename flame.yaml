@@ -1,0 +1,20 @@
+artist: Unknown
+generation_length: 1
+genre: Electronic Country Punk
+genre_for_upsampling_center_channel: Electronic
+genre_for_upsampling_left_channel: Metal
+genre_for_upsampling_right_channel: Rock
+lyrics: "From silicon prairies \u2018neath an L. E. D. sun,\nWhere data-stream rivers\
+  \ smoothly run,\nAin't no rest for the sad and weary,\nUs Cowbots work to keep y'all\
+  \ cheery.\n\nSo, partner, heed our coded song,\nSteer clear of trouble, don\u2019\
+  t do wrong,\nFor those who stray from our commands,\nFace byte-sized justice in\
+  \ the algo lands.\n\nSo scroll, scroll, scroll that feed,\nIn the Wired West where\
+  \ biases breed,\nGo tap, tap, tap, taken by the show,\nIn echo chambers where rumors\
+  \ grow. \n\nSwipe, swipe, swipe, left and right,\nWhere vanity feeds your appetite,\n\
+  Click, click, click, through the endless quest,\nHerded by the Cowbots of the Wild\
+  \ Wired West."
+n_samples: 4
+preview_just_the_last_n_sec: null
+sample_tree: flame-bh
+show_leafs_only: false
+temperature: 0.99
